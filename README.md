@@ -1,4 +1,8 @@
 # 🔐 Digital Asset Security
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Security](https://img.shields.io/badge/focus-cybersecurity%20%7C%20IAM%20%7C%20backup-critical)
+![Coverage](https://img.shields.io/badge/coverage-endpoints%20%7C%20cloud%20%7C%20repos-blue)
+![Updated](https://img.shields.io/badge/updated-Jun--2025-lightgrey)
 
 This repository provides real-world security policies, guidelines, and templates to protect digital assets within corporate IT environments — from credentials and code to endpoints and backups.
 
